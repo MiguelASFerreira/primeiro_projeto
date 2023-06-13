@@ -1,0 +1,12 @@
+.cardContainer {
+    border-radius: 2rem;
+    width: 16rem;
+    height: 16rem;
+    padding: 20px;
+    text-align: center;
+}
+
+.cardParagrafo {
+     font-size: 14;
+     color: #ff0000;
+}
